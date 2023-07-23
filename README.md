@@ -1,6 +1,11 @@
-Vite to create this project.
-Three.js help me create 3D stuff(three layers).
-js/react as backend
+#3D portfolio to scroll
+Vite to create this project...
+
+
+Three.js help me create 3D stuff(three layers)...
+
+js/react as backend...
+
 html css (just don't ask me why)
 
 
